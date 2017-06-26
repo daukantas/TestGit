@@ -1,5 +1,3 @@
-# TestGit1
-
-===
+# TestGit
 
 Test Git only:)
