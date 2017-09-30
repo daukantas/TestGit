@@ -6,4 +6,4 @@ author: zhiliangxu
 ---
 # Test image repo build and publish
 
-The image files add up to ~70MB only. I guess if the history is clean, OPS Build should take less than 5 minutes for build and publish. Believe or not? Let's test it!
+The image files add up to 1.7GB. How long does the build and publish need? Let's test it!
