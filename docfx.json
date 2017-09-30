@@ -1,0 +1,44 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_themes/**"
+        ],
+        "src": ".",
+        "dest": "."
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.svg",
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.jpeg",
+          "**/*.gif",
+          "**/*.svg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/_themes/**"
+        ],
+        "src": ".",
+        "dest": "."
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "fileMetadata": {},
+    "template": [
+      "docs.html"
+    ],
+    "dest": "test"
+  }
+}
