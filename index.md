@@ -20,7 +20,7 @@ author: zhiliangxu
   <tbody>
     <tr>
       <td>
-          It greatly affects unit test projects that use Moq framework. Internally, moq references the StackTrace class
+          It greatly affects unit test projects that use Moq framework. Internally, moq references the StackTrace class qe
       </td>
     </tr>
   </tbody>
